@@ -1,4 +1,4 @@
-The site link http://sroyal.github.io/royalworks/
+The site link http://sroyal.github.io/royalwerks/
 
 # [Start Bootstrap](http://startbootstrap.com/) - [Freelancer](http://startbootstrap.com/template-overviews/freelancer/)
 
