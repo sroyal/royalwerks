@@ -14,7 +14,7 @@ Have a bug or an issue with this theme?
 here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/freelancer/).
 
 ## Creator
-Sebastian Roya
+Sebastian Royal
 I forked this theme from David Miller and modified it to my liking
 You can now fork it from him or use mine
 * https://twitter.com/davidmillerskt
